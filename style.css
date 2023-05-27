@@ -12,9 +12,7 @@
     cursor: pointer;
 }
 
-@media screen {
-    
-}
+
 
 .reload{
     background-color: green;
@@ -57,6 +55,7 @@
 .quiz{
     background-color: aqua;
     padding: 20px;
+    height: fit-content;
 }
 
 .quiz-form{
