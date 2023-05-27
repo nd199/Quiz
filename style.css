@@ -82,11 +82,9 @@ section{
     margin-top: 10px;
     text-align: left;
     max-width: 1000px;
-    overflow: scroll;
+    overflow: auto;
     padding: 10px;
     border-radius: 10px;
-    margin-left: 80px;
-    margin-right: 80px;
     box-shadow: rgba(0, 0, 0, 0.24) 8px 9px 9px;
 }
 
