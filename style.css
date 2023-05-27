@@ -79,6 +79,7 @@ section{
     margin-top: 10px;
     text-align: left;
     max-width: 1000px;
+    overflow: scroll;
     padding: 10px;
     border-radius: 10px;
     margin-left: 80px;
