@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding:0;
-    max-width: 1000px;
     box-sizing: border-box;
     list-style: none;
     font-style: none;
@@ -11,6 +10,10 @@
     background-color: green;
     border: none;
     cursor: pointer;
+}
+
+@media screen {
+    
 }
 
 .reload{
